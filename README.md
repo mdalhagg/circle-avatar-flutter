@@ -3,4 +3,4 @@
 
 circling avatars as circle diraction 
 
-![alt text](https://github.com/[mdalhagg]/[cirle-avatar-flutter]/image1.png?raw=true)
+![GitHub Image](/images1.png)
