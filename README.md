@@ -3,4 +3,4 @@
 
 circling avatars as circle diraction 
 
-![GitHub Image](/images1.png)
+![GitHub Image](images1.png)
